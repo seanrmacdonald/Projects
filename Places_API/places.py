@@ -3,8 +3,7 @@ import pandas as pd
 import numpy as np
 import json
 import os
-from dotenv import load_dotenv
-load_dotenv()
+
 
 class bcolors:
     HEADER = '\033[95m'

@@ -19,7 +19,7 @@ class bcolors:
 
 """
 Need to download own API keys from Yelp, Foursquare and Google to be able to complete the script.  These are 
-stored as environmental variables to protect values.
+stored as environmental variables to protect values. 
 """
 
 # Yelp API information
